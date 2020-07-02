@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Introduction-to-object-oriented-programming</name>
+=======
+	<name>FirstJavaProject</name>
+>>>>>>> 26f5dc1a4fde24212ea1a613adcf9e636e0441e8
 	<comment></comment>
 	<projects>
 	</projects>
