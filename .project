@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JavaForBeginners</name>
+=======
+<<<<<<< HEAD
+	<name>Introduction-to-object-oriented-programming</name>
+=======
+	<name>FirstJavaProject</name>
+>>>>>>> 26f5dc1a4fde24212ea1a613adcf9e636e0441e8
+>>>>>>> e1bc3bcbfe71dbf3e8d14e31e472b9170db7d963
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> e1bc3bcbfe71dbf3e8d14e31e472b9170db7d963
 	</natures>
 </projectDescription>
