@@ -14,7 +14,7 @@ public class DoWhileRepeatedQuestionRunner {
 			if(number != -1) {
 				System.out.println("Cube is " + (number * number * number));
 			}
-			System.out.print("Eneter a number: ");
+			System.out.print("Enter a number: ");
 			number = scanner.nextInt();
 		} while (number >= 0);
 		System.out.print("Thank You! Have Fun!");
