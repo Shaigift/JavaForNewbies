@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 !SESSION 2020-07-06 14:05:05.783 -----------------------------------------------
+=======
+!SESSION 2020-07-04 20:22:03.515 -----------------------------------------------
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
 eclipse.buildId=4.16.0.I20200604-0540
 java.version=14.0.1
 java.vendor=Oracle Corporation
@@ -6,18 +10,31 @@ BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_ZA
 Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/mphoshai/.eclipse_keyring
 Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/mphoshai/.eclipse_keyring
 
+<<<<<<< HEAD
 !ENTRY org.eclipse.core.net 1 0 2020-07-06 14:05:41.344
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
 
 !ENTRY org.eclipse.jface 2 0 2020-07-06 14:05:42.439
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2020-07-06 14:05:42.439
+=======
+!ENTRY org.eclipse.core.net 1 0 2020-07-04 20:22:17.121
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2020-07-04 20:22:18.391
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-07-04 20:22:18.391
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
 !MESSAGE A conflict occurred for COMMAND+SHIFT+T:
 Binding(COMMAND+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ba318c2,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@31531d0d,
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -25,6 +42,7 @@ Binding(COMMAND+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@231d3ce,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
@@ -104,3 +122,9 @@ java.lang.NullPointerException
 	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:116)
 	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:91)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@19d76106,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a

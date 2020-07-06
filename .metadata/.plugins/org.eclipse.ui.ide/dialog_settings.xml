@@ -7,7 +7,11 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+<<<<<<< HEAD
 			<item value="/Users/mphoshai/Desktop/JavaForBeginners/object-oriented-programming-2"/>
+=======
+			<item value="/Users/mphoshai/Desktop/JavaForBeginners/Loops2"/>
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
