@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>tips and tricks</name>
+=======
+<<<<<<< HEAD
+	<name>concurrency</name>
+=======
+<<<<<<< HEAD
+	<name>files</name>
+=======
+<<<<<<< HEAD
+	<name>exception-handling</name>
+=======
+<<<<<<< HEAD
+	<name>Multithreading</name>
+=======
+<<<<<<< HEAD
+	<name>generics</name>
+=======
+<<<<<<< HEAD
+	<name>functional-programming</name>
+=======
+<<<<<<< HEAD
+	<name>collections</name>
+=======
+<<<<<<< HEAD
+	<name>object-oriented-programming-2</name>
+=======
+<<<<<<< HEAD
+	<name>Student</name>
+=======
+<<<<<<< HEAD
+	<name>Loops</name>
+=======
+<<<<<<< HEAD
+	<name>loops</name>
+=======
+<<<<<<< HEAD
+	<name>java-primitive-data-types-in-dept</name>
+=======
+<<<<<<< HEAD
+	<name>JavaForBeginners</name>
+=======
+<<<<<<< HEAD
+	<name>Introduction-to-object-oriented-programming</name>
+=======
+	<name>FirstJavaProject</name>
+>>>>>>> 26f5dc1a4fde24212ea1a613adcf9e636e0441e8
+>>>>>>> e1bc3bcbfe71dbf3e8d14e31e472b9170db7d963
+>>>>>>> 6e8dd91722275c7376a679643acce3d19dfc433e
+>>>>>>> 69ad243a47bd292665199712f72b62875f38593e
+>>>>>>> 9df75f41fbda30f18349a0012aed3899981695d8
+>>>>>>> 66864773016c08740de5902dff6b59e6a4aabaad
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
+>>>>>>> 2548edccdcddc6baa2ef95fb5dad52d08ba37132
+>>>>>>> d373d11fd81c6a0f573f20731b1c380a30a298ac
+>>>>>>> fbfe82d89ef87b1f200228afa683429809348218
+>>>>>>> 594253ebaa8ded5ef86c85a2118aea20c8612842
+>>>>>>> fdd0eda112c567269398c70c747e9222ef1dc231
+>>>>>>> ee2847dacf85027a5c7708f1e876f324df811cc5
+>>>>>>> 9c8191b29208ee5862a4adbeb006dcc879d52b36
+>>>>>>> c4b7f7416aa84840a865e8101d5cacf6cd890795
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
+>>>>>>> 6e8dd91722275c7376a679643acce3d19dfc433e
+>>>>>>> 69ad243a47bd292665199712f72b62875f38593e
+>>>>>>> 9df75f41fbda30f18349a0012aed3899981695d8
+>>>>>>> 66864773016c08740de5902dff6b59e6a4aabaad
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
+>>>>>>> 2548edccdcddc6baa2ef95fb5dad52d08ba37132
+>>>>>>> d373d11fd81c6a0f573f20731b1c380a30a298ac
+>>>>>>> fbfe82d89ef87b1f200228afa683429809348218
+>>>>>>> 594253ebaa8ded5ef86c85a2118aea20c8612842
+>>>>>>> fdd0eda112c567269398c70c747e9222ef1dc231
+>>>>>>> ee2847dacf85027a5c7708f1e876f324df811cc5
+>>>>>>> 9c8191b29208ee5862a4adbeb006dcc879d52b36
+>>>>>>> c4b7f7416aa84840a865e8101d5cacf6cd890795
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -13,5 +116,45 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> e1bc3bcbfe71dbf3e8d14e31e472b9170db7d963
+>>>>>>> 6e8dd91722275c7376a679643acce3d19dfc433e
+>>>>>>> 69ad243a47bd292665199712f72b62875f38593e
+>>>>>>> 9df75f41fbda30f18349a0012aed3899981695d8
+>>>>>>> 66864773016c08740de5902dff6b59e6a4aabaad
+>>>>>>> 49fd04954c621ac2758b86cba2603506be46a14a
+>>>>>>> 2548edccdcddc6baa2ef95fb5dad52d08ba37132
+>>>>>>> d373d11fd81c6a0f573f20731b1c380a30a298ac
+>>>>>>> fbfe82d89ef87b1f200228afa683429809348218
+>>>>>>> 594253ebaa8ded5ef86c85a2118aea20c8612842
+>>>>>>> fdd0eda112c567269398c70c747e9222ef1dc231
+>>>>>>> ee2847dacf85027a5c7708f1e876f324df811cc5
+>>>>>>> 9c8191b29208ee5862a4adbeb006dcc879d52b36
+>>>>>>> c4b7f7416aa84840a865e8101d5cacf6cd890795
 	</natures>
 </projectDescription>
